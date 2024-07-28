@@ -107,3 +107,6 @@ Questions you may wish to consider while writing:
 - What optimizations did you apply to improve performance?
 - How did you handle boundary conditions in the distributed computation?
 
+## MyCode
+I have successfully implemented the OpenMP and MPI code, and the results are as follows. 
+If you need the code or programming assistance, please contact me on WeChat lqs_8023
