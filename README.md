@@ -1,3 +1,9 @@
+## MyCode
+I have successfully implemented the OpenMP and MPI code, and the results are as follows. 
+![1722164959789](https://github.com/user-attachments/assets/77f00631-b506-441b-b84b-d7e7891204a6)
+
+If you need the code or programming assistance, please contact me on WeChat lqs_8023 or phone 18711839961
+
 # Module: Introduction to HPC (PHYS 52015)
 **Term:** Summer 2024
 
@@ -106,10 +112,4 @@ Questions you may wish to consider while writing:
 - How does the MPI implementation compare to the OpenMP implementation in terms of performance and scalability?
 - What optimizations did you apply to improve performance?
 - How did you handle boundary conditions in the distributed computation?
-
-## MyCode
-I have successfully implemented the OpenMP and MPI code, and the results are as follows. 
-![1722164959789](https://github.com/user-attachments/assets/77f00631-b506-441b-b84b-d7e7891204a6)
-
-If you need the code or programming assistance, please contact me on WeChat lqs_8023 or phone 18711839961
 
