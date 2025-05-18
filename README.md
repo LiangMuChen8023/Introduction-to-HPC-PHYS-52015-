@@ -2,7 +2,8 @@
 I have successfully implemented the OpenMP and MPI code, and the results are as follows. 
 ![1722164959789](https://github.com/user-attachments/assets/77f00631-b506-441b-b84b-d7e7891204a6)
 
-If you need the code or programming assistance, please contact me on WeChat lqs_8023 or phone 18711839961
+If you need the code or programming assistance, please contact me on WeChat lqs_8023 or phone 18711839961.
+I am highly proficient in OpenMP, MPI, POSIX, OpenCL, CUDA, SIMD, assembly language, and can provide assistance with all of them.
 
 # Module: Introduction to HPC (PHYS 52015)
 **Term:** Summer 2024
